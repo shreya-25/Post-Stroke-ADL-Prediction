@@ -2,7 +2,7 @@
 
 This repository presents a machine learning project focused on **predicting post-stroke Activities of Daily Living (ADL) outcomes** using clinical data. The project explores how supervised learning models can be used to classify rehabilitation-related outcomes from patient features and compares the effect of dimensionality reduction using **Principal Component Analysis (PCA)**.
 
-The repository includes a complete Python-based workflow for preprocessing data, applying PCA, training multiple machine learning models, evaluating classification performance, and visualizing results. The current repository contains `Final_Code.py`, `stroke data 2.xlsx`, `scree plot.png`, and `feature importance ranking.png`. :contentReference[oaicite:1]{index=1}
+The repository includes a complete Python-based workflow for preprocessing data, applying PCA, training multiple machine learning models, evaluating classification performance, and visualizing results. The current repository contains `Final_Code.py`, `stroke data 2.xlsx`, `scree plot.png`, and `feature importance ranking.png`.
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The workflow includes:
 - dimensionality reduction using PCA
 - classification using multiple machine learning models
 - confusion matrix and classification report evaluation
-- cross-validation for model comparison :contentReference[oaicite:2]{index=2}
+- cross-validation for model comparison
 
 ## Repository Structure
 
